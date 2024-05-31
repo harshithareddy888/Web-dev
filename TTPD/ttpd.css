@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(180, 175, 168);
+}
+a{
+    display: block;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.pics{
+    display: flex;
+    
+}
+.img1{
+    margin-top:60px;
+    margin-left: 10px;
+    margin-right: 25px;
+    width: 400px;
+    height: 400px;
+}
+.img2{
+    margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 25px;
+    width: 400px;
+    height: 400px;
+}
+.img3{
+    margin-top: 60px;
+    margin-right: 10px;
+    margin-left: 20px;
+    width: 400px;
+    height: 400px;
+}
+h2{
+    text-align: center;
+    color: #716E6E;
+}
+ol{
+    text-align: center;
+}
+.song{
+    color: #000000;
+    height:15px;
+    text-decoration:1px underline black;
+    font-family: "Shadows Into Light", cursive;
+    font-size: large;
+    }
+.song:hover{
+    text-decoration: none;
+}
+.img1{
+    border: 1px solid #716E6E;
+}
+.pics2{
+    display: flex;
+}
+.img4{
+    margin-top:60px;
+    margin-right: 20px;
+    width: 380px;
+    height: 380px;
+}
+.img5{
+    margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 380px;
+    height: 380px;
+}
+.img6{
+    margin-top: 60px;
+    margin-left: 20px;
+    width: 380px;
+    height: 380px;
+}
